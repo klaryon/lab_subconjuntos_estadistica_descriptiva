@@ -1,0 +1,2 @@
+# lab_subconjuntos_estadistica_descriptiva
+lab subconjuntos estadistica descriptiva
