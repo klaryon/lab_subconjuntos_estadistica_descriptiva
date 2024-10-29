@@ -1,2 +1,2 @@
-# lab_subconjuntos_estadistica_descriptiva
-lab subconjuntos estadistica descriptiva
+# Lab subconjuntos y estadistica descriptiva
+Ver archivo main.ipynb
